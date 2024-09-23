@@ -20,8 +20,8 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/co2-prediction-app.git
-    cd co2-prediction-app
+    git clone https://github.com/yourusername/app.git
+    cd app
     ```
 
 2. Install the required packages:
@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 3. Run the Streamlit app:
     ```bash
-    streamlit run co2_pred_app1.py
+    streamlit run app.py
     ```
 
 4. Open your browser and navigate to the displayed local URL (usually `http://localhost:8501`).
@@ -55,7 +55,7 @@ Upon logging in with these credentials, you can access the prediction functional
 
 ## File Structure
 
-├── co2_pred_app1.py # The main app file ├── best_ridge_model.pkl # Pre-trained Ridge regression model ├── co2vehicle.JPEG # Image displayed in the app ├── requirements.txt # List of dependencies └── README.md
+├── app.py # The main app file ├── best_ridge_model.pkl # Pre-trained Ridge regression model ├── co2vehicle.JPEG # Image displayed in the app ├── requirements.txt # List of dependencies └── README.md
 
 ## Model Details
 
