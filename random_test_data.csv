@@ -1,0 +1,9 @@
+Engine_Size_L,Cylinders,Fuel_Consumption_City,Fuel_Consumption_Hwy,Fuel_Consumption_Comb,Fuel_Consumption_Comb_mpg,CO2_Emissions_g_km,Fuel Type_E,Fuel Type_N,Fuel Type_X,Fuel Type_Z,Make_Type_Luxury,Make_Type_Premium,Make_Type_Sports,Vehicle_Class_Type_SUV,Vehicle_Class_Type_Sedan,Vehicle_Class_Type_Truck,Latitude,Longitude
+1.4,4,8.9,7.5,8.3,34,194,0,0,1,0,0,1,0,1,0,0,49.2461,-123.1193
+1.5,4,5.8,2.6,4.6,42,123,0,0,1,0,0,0,0,0,0,0,43.6532,-79.3832
+1.5,4,7.6,5.7,6.7,42,157,0,0,1,0,0,0,0,0,0,0,45.5088,-73.5674
+3,6,11.9,8.5,10.4,27,242,0,0,0,1,0,0,1,0,1,0,51.0512,-114.0733
+6.7,12,20,11.8,16.3,17,382,0,0,0,1,1,0,0,0,1,0,45.4215,-75.6972
+2,4,13.1,9.8,11.6,24,198,1,0,0,0,0,1,0,0,0,0,53.5444,-113.4909
+5.3,8,18,13.4,15.9,18,366,0,0,1,0,0,1,0,0,0,1,49.8956,-97.1397
+4.7,8,15.4,10.4,13.2,21,304,0,0,0,1,0,1,0,0,0,0,44.6494,-63.5752
